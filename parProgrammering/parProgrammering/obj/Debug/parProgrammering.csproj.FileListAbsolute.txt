@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GET Academy\Get-it 2019\parProgrammering\parProgrammering\bin\Debug\parProgrammering.exe.config
+C:\Users\andre\Documents\GET Academy\Get-it 2019\parProgrammering\parProgrammering\bin\Debug\parProgrammering.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\parProgrammering\parProgrammering\bin\Debug\parProgrammering.pdb
+C:\Users\andre\Documents\GET Academy\Get-it 2019\parProgrammering\parProgrammering\obj\Debug\parProgrammering.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\parProgrammering\parProgrammering\obj\Debug\parProgrammering.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\parProgrammering\parProgrammering\obj\Debug\parProgrammering.pdb
+C:\Users\andre\Documents\GET Academy\Get-it 2019\parProgrammering\parProgrammering\obj\Debug\parProgrammering.csprojAssemblyReference.cache

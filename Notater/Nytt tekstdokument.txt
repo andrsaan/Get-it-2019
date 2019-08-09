@@ -1,0 +1,1 @@
+Når du pakker fler verdier inn i en variabel så kalles det et objekt.

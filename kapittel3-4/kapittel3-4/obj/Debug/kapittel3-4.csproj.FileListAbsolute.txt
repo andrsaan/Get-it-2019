@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GET Academy\Get-it 2019\kapittel3-4\kapittel3-4\bin\Debug\kapittel3-4.exe.config
+C:\Users\andre\Documents\GET Academy\Get-it 2019\kapittel3-4\kapittel3-4\bin\Debug\kapittel3-4.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\kapittel3-4\kapittel3-4\bin\Debug\kapittel3-4.pdb
+C:\Users\andre\Documents\GET Academy\Get-it 2019\kapittel3-4\kapittel3-4\obj\Debug\kapittel3-4.csprojAssemblyReference.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\kapittel3-4\kapittel3-4\obj\Debug\kapittel3-4.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\kapittel3-4\kapittel3-4\obj\Debug\kapittel3-4.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\kapittel3-4\kapittel3-4\obj\Debug\kapittel3-4.pdb

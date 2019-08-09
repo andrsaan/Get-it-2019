@@ -1,0 +1,11 @@
+Har blitt ferdig med gruppeoppgavene mine på prosjektet.
+lært meg om tablerows og bootstrap
+
+div class="wrapper" : Den inneholder alle de andre div'ene og holder orden på griden.
+
+veldig fornøyd med at jeg har kommet godt i gang med prosjektet (prototypen)
+
+Blitt bedre kjent med Olga og Jan også.
+
+
+Har lært meg hvordan man putter en GIF inn i JS og lært om Locus Of Control.

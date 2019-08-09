@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Oppgave2.9\Oppgave2.9\obj\Debug\Oppgave2.9.csprojAssemblyReference.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Oppgave2.9\Oppgave2.9\obj\Debug\Oppgave2.9.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Oppgave2.9\Oppgave2.9\bin\Debug\Oppgave2.9.exe.config
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Oppgave2.9\Oppgave2.9\bin\Debug\Oppgave2.9.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Oppgave2.9\Oppgave2.9\bin\Debug\Oppgave2.9.pdb
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Oppgave2.9\Oppgave2.9\obj\Debug\Oppgave2.9.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Oppgave2.9\Oppgave2.9\obj\Debug\Oppgave2.9.pdb

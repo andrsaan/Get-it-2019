@@ -1,0 +1,5 @@
+1. Cd (Full path)
+
+2. cd bin \debug
+
+3. Dir.

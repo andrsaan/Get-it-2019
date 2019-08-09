@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GET Academy\Get-it 2019\obligatorisk1\obligatorisk1\bin\Debug\obligatorisk1.exe.config
+C:\Users\andre\Documents\GET Academy\Get-it 2019\obligatorisk1\obligatorisk1\bin\Debug\obligatorisk1.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\obligatorisk1\obligatorisk1\bin\Debug\obligatorisk1.pdb
+C:\Users\andre\Documents\GET Academy\Get-it 2019\obligatorisk1\obligatorisk1\obj\Debug\obligatorisk1.csprojAssemblyReference.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\obligatorisk1\obligatorisk1\obj\Debug\obligatorisk1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\obligatorisk1\obligatorisk1\obj\Debug\obligatorisk1.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\obligatorisk1\obligatorisk1\obj\Debug\obligatorisk1.pdb

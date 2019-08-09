@@ -1,0 +1,5 @@
+Gorilla testing
+Lister og løkker.
+
+&& = OG
+|| = ELLER

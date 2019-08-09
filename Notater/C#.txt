@@ -1,0 +1,36 @@
+Format specifier	Description	     Examples	                      Result
+ 
+
+	                 
+C or c                   Currency	  string s = $"{2.5:C}";              2.50(2.50)
+                                          string s = $"{-2.5:C}";
+
+
+D or d                   decimal          string s = $"{25:D5}";              00025
+
+
+E or e                  exponential       string s = $"{250000:E2}";          2.50E+005
+
+
+F or f                  fixed-point      string s = $"{2.5F2}";               2.50  
+                                         string s = $"{2.5:F0}";                3
+
+
+G or g                  General           string s = $"2.5:G};                2.5
+
+
+
+N or n                  Numeric            string s = $"{2500000:N}";         2,500,000.00
+
+
+
+P or p	                Percent	            string s = $"{0.25:P}";	      25.00%
+
+
+
+R or r                  Round-trip           string s = $"{2.5:R}";            2.5
+
+
+
+X or x                Hexadecimal            string s = $"{250:X}";            FA
+                                             string s = $"{0xffff:x}";         FFFF

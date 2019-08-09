@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Hashtag opppgave3\Hashtag opppgave3\bin\Debug\Hashtag opppgave3.exe.config
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Hashtag opppgave3\Hashtag opppgave3\bin\Debug\Hashtag opppgave3.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Hashtag opppgave3\Hashtag opppgave3\bin\Debug\Hashtag opppgave3.pdb
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Hashtag opppgave3\Hashtag opppgave3\obj\Debug\Hashtag opppgave3.csprojAssemblyReference.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Hashtag opppgave3\Hashtag opppgave3\obj\Debug\Hashtag opppgave3.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Hashtag opppgave3\Hashtag opppgave3\obj\Debug\Hashtag opppgave3.exe
+C:\Users\andre\Documents\GET Academy\Get-it 2019\Hashtag opppgave3\Hashtag opppgave3\obj\Debug\Hashtag opppgave3.pdb
